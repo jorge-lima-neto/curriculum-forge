@@ -1,0 +1,32 @@
+NOME COMPLETO
+Cidade - Estado | (DD) 99999-9999 | seuemail@exemplo.com | linkedin.com/in/seu-perfil
+
+OBJETIVO
+Escreva aqui seu objetivo profissional de forma clara e direta (ex: Atuar na área administrativa...).
+
+RESUMO PROFISSIONAL
+Escreva um parágrafo resumindo suas qualificações, anos de experiência e principais competências.
+
+FORMAÇÃO ACADÊMICA
+Nome do Curso - Instituição | Conclusão em Ano
+Ensino Médio - Escola tal | Conclusão em Ano
+
+EXPERIÊNCIA PROFISSIONAL
+Nome da Empresa - Cargo
+Período: Jan/2020 - Atual
+- Descreva aqui suas principais atividades em tópicos.
+- Use verbos de ação (Gerenciei, Organizei, Desenvolvi).
+
+Nome da Empresa Anterior - Cargo
+Período: Jan/2018 - Dez/2019
+- Atividade realizada 1.
+- Atividade realizada 2.
+
+HABILIDADES
+- Habilidade 1
+- Habilidade 2
+- Software tal
+- Idioma tal
+
+INFORMAÇÕES ADICIONAIS
+Cursos complementares, workshops, disponibilidade de horário, etc.
