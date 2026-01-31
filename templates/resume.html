@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo - {{ name }}</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div class="page">
+        <header>
+            <h1 class="name">{{ name }}</h1>
+            <div class="contact-info">
+                {% for contact in contacts %}
+                <span class="contact-item">{{ contact }}</span>
+                {% if not loop.last %}|{% endif %}
+                {% endfor %}
+            </div>
+        </header>
+
+        <main>
+            {% for section in sections %}
+            <div class="section">
+                <h2 class="section-title">{{ section.title }}</h2>
+                <div class="section-content">
+                    {{ section.content | safe }}
+                </div>
+            </div>
+            {% endfor %}
+        </main>
+    </div>
+</body>
+</html>
