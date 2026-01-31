@@ -6,7 +6,9 @@
 
 Uma ferramenta Python robusta que converte currículos de texto simples (TXT) em documentos HTML/PDF com design profissional, limpo e otimizado para impressão A4. Construído com arquitetura limpa (Clean Architecture) e melhores práticas de desenvolvimento.
 
-![Preview](output/preview_placeholder.png) *Exemplo de Currículo Gerado*
+<p align="center">
+  <img src="output/preview_placeholder.png" alt="Exemplo de Currículo Gerado" width="600">
+</p>
 
 ## Funcionalidades
 
